@@ -1,0 +1,22 @@
+﻿  main.cpp
+c:\users\dell\desktop\doanktmt_hn\1712782_1712884_1712885\main.cpp(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\desktop\doanktmt_hn\1712782_1712884_1712885\main.cpp(256): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\desktop\doanktmt_hn\1712782_1712884_1712885\main.cpp(260): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\desktop\doanktmt_hn\1712782_1712884_1712885\main.cpp(266): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\desktop\doanktmt_hn\1712782_1712884_1712885\main.cpp(491): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dell\desktop\doanktmt_hn\1712782_1712884_1712885\main.cpp(611): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\desktop\doanktmt_hn\1712782_1712884_1712885\main.cpp(621): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\desktop\doanktmt_hn\1712782_1712884_1712885\main.cpp(718): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\desktop\doanktmt_hn\1712782_1712884_1712885\main.cpp(742): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\desktop\doanktmt_hn\1712782_1712884_1712885\main.cpp(752): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\desktop\doanktmt_hn\1712782_1712884_1712885\main.cpp(795): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\desktop\doanktmt_hn\1712782_1712884_1712885\main.cpp(829): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\desktop\doanktmt_hn\1712782_1712884_1712885\main.cpp(841): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\desktop\doanktmt_hn\1712782_1712884_1712885\main.cpp(851): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\desktop\doanktmt_hn\1712782_1712884_1712885\main.cpp(879): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\desktop\doanktmt_hn\1712782_1712884_1712885\main.cpp(894): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\desktop\doanktmt_hn\1712782_1712884_1712885\main.cpp(906): warning C4018: '>': signed/unsigned mismatch
+c:\users\dell\desktop\doanktmt_hn\1712782_1712884_1712885\main.cpp(928): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\desktop\doanktmt_hn\1712782_1712884_1712885\main.cpp(982): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\desktop\doanktmt_hn\1712782_1712884_1712885\main.cpp(1112): warning C4018: '<': signed/unsigned mismatch
+  1712782_1712884_1712885.vcxproj -> C:\Users\Dell\Desktop\DoAnKTMT_HN\Debug\1712782_1712884_1712885.exe

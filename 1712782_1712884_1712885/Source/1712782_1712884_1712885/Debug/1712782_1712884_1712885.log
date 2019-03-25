@@ -1,0 +1,30 @@
+﻿  File.cpp
+c:\users\dell\desktop\1712782_1712884_1712885\source\1712782_1712884_1712885\file.cpp(361): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Qfloat.cpp
+c:\users\dell\desktop\1712782_1712884_1712885\source\1712782_1712884_1712885\qfloat.cpp(29): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\desktop\1712782_1712884_1712885\source\1712782_1712884_1712885\qfloat.cpp(247): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\desktop\1712782_1712884_1712885\source\1712782_1712884_1712885\qfloat.cpp(251): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\desktop\1712782_1712884_1712885\source\1712782_1712884_1712885\qfloat.cpp(257): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\desktop\1712782_1712884_1712885\source\1712782_1712884_1712885\qfloat.cpp(482): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dell\desktop\1712782_1712884_1712885\source\1712782_1712884_1712885\qfloat.cpp(602): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\desktop\1712782_1712884_1712885\source\1712782_1712884_1712885\qfloat.cpp(612): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\desktop\1712782_1712884_1712885\source\1712782_1712884_1712885\qfloat.cpp(709): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\desktop\1712782_1712884_1712885\source\1712782_1712884_1712885\qfloat.cpp(733): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\desktop\1712782_1712884_1712885\source\1712782_1712884_1712885\qfloat.cpp(743): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\desktop\1712782_1712884_1712885\source\1712782_1712884_1712885\qfloat.cpp(786): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\desktop\1712782_1712884_1712885\source\1712782_1712884_1712885\qfloat.cpp(820): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\desktop\1712782_1712884_1712885\source\1712782_1712884_1712885\qfloat.cpp(832): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\desktop\1712782_1712884_1712885\source\1712782_1712884_1712885\qfloat.cpp(842): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\desktop\1712782_1712884_1712885\source\1712782_1712884_1712885\qfloat.cpp(870): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\desktop\1712782_1712884_1712885\source\1712782_1712884_1712885\qfloat.cpp(885): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\desktop\1712782_1712884_1712885\source\1712782_1712884_1712885\qfloat.cpp(897): warning C4018: '>': signed/unsigned mismatch
+c:\users\dell\desktop\1712782_1712884_1712885\source\1712782_1712884_1712885\qfloat.cpp(919): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\desktop\1712782_1712884_1712885\source\1712782_1712884_1712885\qfloat.cpp(973): warning C4018: '<': signed/unsigned mismatch
+  QInt.cpp
+c:\users\dell\desktop\1712782_1712884_1712885\source\1712782_1712884_1712885\qint.cpp(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\desktop\1712782_1712884_1712885\source\1712782_1712884_1712885\qint.cpp(528): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\desktop\1712782_1712884_1712885\source\1712782_1712884_1712885\qint.cpp(569): warning C4018: '<': signed/unsigned mismatch
+  TinhToan.cpp
+  Generating Code...
+  1712782_1712884_1712885.vcxproj -> C:\Users\Dell\Desktop\1712782_1712884_1712885\Source\Debug\1712782_1712884_1712885.exe
